@@ -1,2 +1,3 @@
-# curriculumweb
-Curriculos web
+# Curriculum Web
+
+Repositório para um modelo de CV online.
